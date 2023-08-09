@@ -1,0 +1,20 @@
+[
+    {
+        "_id": "643010e0f5a7e52ce1e8fa65",
+        "name": "Teeth Cleaning",
+        "image": "https://i.ibb.co/H2FPjTr/teeth1-1.jpg",
+        "price": 18
+    },
+    {
+        "_id": "643010e0f5a7e52ce1e8fa65",
+        "name": "Teeth Cleaning",
+        "image": "https://i.ibb.co/NSqC3jQ/teeth1-2.jpg",
+        "price": 18
+    },
+    {
+        "_id": "643010e0f5a7e52ce1e8fa65",
+        "name": "Teeth Cleaning",
+        "image": "https://i.ibb.co/1MM69YH/teeth1-3.jpg",
+        "price": 18
+    }
+]
